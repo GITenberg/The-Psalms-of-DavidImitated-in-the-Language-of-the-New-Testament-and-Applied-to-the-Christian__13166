@@ -14,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Isaac_Watts
 description: Includes The Life of Isaac Watts, D.D. by Dr. Johnson. From his lives
   of the most eminent English Poets.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13166#The-Psalms-of-DavidImitated-in-the-Language-of-the-New-Testament-and-Applied-to-the-Christian_
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2004-08-12'
 gutenberg_type: Text
